@@ -1,5 +1,5 @@
 def and_(a, b):
-	return None
+	return (a and b)
 	
 def or_(a, b):
-	return None
+	return (a or b)
